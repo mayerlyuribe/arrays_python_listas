@@ -1,6 +1,6 @@
 resultado = 0
 
-n = int(input("Número de elementos de los vectores: ") 
+n = int(input("Número de elementos de los vectores: "))
 vector1 = [None] * n
 print("Elementos del segundo vector:") 
 
